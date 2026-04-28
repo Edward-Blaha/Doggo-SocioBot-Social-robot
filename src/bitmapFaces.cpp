@@ -1,7 +1,15 @@
-/*-------------------------------------------------------------------------------------------------------------------------------------------*/
+/*-----------------------------------------------------------------------------------------------------*/
+/*                   bitmapFaces.cpp file for bitmap frames on the SocioBot project                    */
+/*                            Dedicated to the public domain via The Unlicense.                        */
+/*                              See https://unlicense.org/ for details.                                */
+/*                                                                                                     */
+/* 			      		ALL BITMAPS GENERATED USING https://javl.github.io/image2cpp/ 				   */
+/*                                      Design by Edward Blaha                                         */
+/*         For more information about this project, please visit https://github.com/Edward-Blaha       */
+/*-----------------------------------------------------------------------------------------------------*/
 #include "DisplayDriver.h"
 #include <Arduino.h>
-/* ALL BITMAPS GENERATED USING https://javl.github.io/image2cpp/ */
+
 
 // ---------------------- EstaticFace ------------------------ //
 
