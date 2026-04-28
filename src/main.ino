@@ -7,7 +7,13 @@
 //                                function                                 // 
 //                    Design and code by Edward Blaha                      //
 //                                                                         //
-/* ----------------------------------------------------------------------- */
+//           Dedicated to the public domain via The Unlicense.             //
+//                  See https://unlicense.org/ for details.                //
+//                                                                         //
+//                         Design by Edward Blaha                          //
+//         For more information about this project, please visit           // 
+//                     https://github.com/Edward-Blaha                     //
+/*-------------------------------------------------------------------------*/
 #include "DisplayDriver.h"
 #include "Sensors.h"
 #include "KeypadFunction.h"
