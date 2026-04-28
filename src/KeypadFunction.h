@@ -1,3 +1,12 @@
+/*-----------------------------------------------------------------------------------------------------*/
+/*                    KeypadFunction.h file for audio control on the SocioBot project                  */
+/*                            Dedicated to the public domain via The Unlicense.                        */
+/*                              See https://unlicense.org/ for details.                                */
+/*                                                                                                     */
+/*                                      Design by Edward Blaha                                         */
+/*         For more information about this project, please visit https://github.com/Edward-Blaha       */
+/*-----------------------------------------------------------------------------------------------------*/
+
 #ifndef KEYPADFUNCTION_H
 #define KEYPADFUNCTION_H
 
