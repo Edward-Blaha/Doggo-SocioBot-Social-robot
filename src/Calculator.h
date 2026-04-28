@@ -1,5 +1,5 @@
 /*-----------------------------------------------------------------------------------------------------*/
-/*                      Calculator.h file for audio control on the SocioBot project                    */
+/*                                Calculator.h on the SocioBot project                                 */
 /*                            Dedicated to the public domain via The Unlicense.                        */
 /*                              See https://unlicense.org/ for details.                                */
 /*                                                                                                     */
