@@ -1,3 +1,12 @@
+/*-----------------------------------------------------------------------------------------------------*/
+/*                   KeypadFunction.cpp file for audio control on the SocioBot project                 */
+/*                            Dedicated to the public domain via The Unlicense.                        */
+/*                              See https://unlicense.org/ for details.                                */
+/*                                                                                                     */
+/*                                      Design by Edward Blaha                                         */
+/*         For more information about this project, please visit https://github.com/Edward-Blaha       */
+/*-----------------------------------------------------------------------------------------------------*/
+
 #include "KeypadFunction.h"
 #include <Arduino.h>
 char keyMap[KEYPAD_ROWS][KEYPAD_COLS] = 
