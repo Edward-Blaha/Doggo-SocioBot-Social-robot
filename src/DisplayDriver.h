@@ -10,7 +10,7 @@
 /* 2.0 inch TFT display driver Library, utilising the Adafruit_ST7789 library*/
 #ifndef DISPLAYDRIVER_H
 #define DISPLAYDRIVER_H
-#include <Arduino.h> // Weird error found during compilation, Documentation rules out issue.
+#include <Arduino.h> 
 // ALL BITMAP DECLARATIONS!
 extern const unsigned char bitmap_EstaticFace[]; // Array of EstaticFace bitmap
 extern const unsigned char bitmap_HappyFace[]; // Array of HappyFace bitmap
