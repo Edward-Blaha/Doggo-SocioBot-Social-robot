@@ -1,3 +1,12 @@
+/*-----------------------------------------------------------------------------------------------------*/
+/*                    DisplayDriver.h file for audio control on the SocioBot project                   */
+/*                            Dedicated to the public domain via The Unlicense.                        */
+/*                              See https://unlicense.org/ for details.                                */
+/*                                                                                                     */
+/*                                      Design by Edward Blaha                                         */
+/*         For more information about this project, please visit https://github.com/Edward-Blaha       */
+/*-----------------------------------------------------------------------------------------------------*/
+
 /* 2.0 inch TFT display driver Library, utilising the Adafruit_ST7789 library*/
 #ifndef DISPLAYDRIVER_H
 #define DISPLAYDRIVER_H
