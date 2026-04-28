@@ -1,3 +1,12 @@
+/*-----------------------------------------------------------------------------------------------------*/
+/*                   Sensors.cpp file for sensing interactions on the SocioBot project                 */
+/*                            Dedicated to the public domain via The Unlicense.                        */
+/*                              See https://unlicense.org/ for details.                                */
+/*                                                                                                     */
+/*                                      Design by Edward Blaha                                         */
+/*         For more information about this project, please visit https://github.com/Edward-Blaha       */
+/*-----------------------------------------------------------------------------------------------------*/
+
 #include "Sensors.h"
 #include <Arduino.h>
 #include <Wire.h> // I2C init Lib
